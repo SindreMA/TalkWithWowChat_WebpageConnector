@@ -1,0 +1,1 @@
+This were a attempt to let a webpage talk to ingame chat for the game world of warcraft
